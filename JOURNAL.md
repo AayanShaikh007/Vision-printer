@@ -7,5 +7,5 @@ Total hours so far: 1
 Vision:
   title: "Vision"
   description: "A 3D printer designed around usability and convenience. Features a fume hood and a live camera feed"
-  repository: "https://github.com/AayanShaikh007/Vision-printer/edit/main/JOURNAL.md"
+  repository: "https://raw.githubusercontent.com/AayanShaikh007/Vision-printer/refs/heads/main/JOURNAL.md"
   file_name: Vision.md
